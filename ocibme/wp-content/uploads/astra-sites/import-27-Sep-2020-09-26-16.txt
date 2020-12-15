@@ -1,0 +1,404 @@
+
+---- Processing WordPress Page - for Elementor ---- "641"
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "655"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"url":"https:\/\/websitedemos.net\/life-coach-sara-john-07\/wp-includes\/images\/media\/default.png","id":0}
+Inserted - Post 656 - attachment - default.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/09/default.png
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"url":"https:\/\/websitedemos.net\/life-coach-sara-john-07\/wp-content\/uploads\/sites\/447\/2019\/05\/world-map-dark.png","id":0}
+Inserted - Post 657 - attachment - world-map-dark.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/09/world-map-dark.png
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "684"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "720"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "770"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "789"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "800"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "839"
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2020/02/ac-technician-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2020/02/ac-technician-banner.jpg
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2020\/02\/ac-technician-banner.jpg","id":0}
+Inserted - Post 840 - attachment - ac-technician-banner.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/ac-technician-banner.jpg
+Source - https://websitedemos.net/ac-technician-07/wp-includes/images/media/default.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/yelp-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/yelp-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/yelp-free-img.png","id":0}
+Inserted - Post 841 - attachment - yelp-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/yelp-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/bbb-logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/bbb-logo-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/bbb-logo-free-img.png","id":0}
+Inserted - Post 842 - attachment - bbb-logo-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/bbb-logo-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/houzz-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/houzz-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/houzz-free-img.png","id":0}
+Inserted - Post 843 - attachment - houzz-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/houzz-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/google-reviews-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/google-reviews-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/google-reviews-free-img.png","id":0}
+Inserted - Post 844 - attachment - google-reviews-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/google-reviews-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/trane-logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/trane-logo-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/trane-logo-free-img.png","id":0}
+Inserted - Post 845 - attachment - trane-logo-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/trane-logo-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/pic09_free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/pic09_free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/pic09_free-img.jpg","id":0}
+Inserted - Post 846 - attachment - pic09_free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/pic09_free-img.jpg
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/client01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/client01-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/client01-free-img.png","id":0}
+Inserted - Post 847 - attachment - client01-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/client01-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/client02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/client02-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/client02-free-img.png","id":0}
+Inserted - Post 848 - attachment - client02-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/client02-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/client03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/client03-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/client03-free-img.png","id":0}
+Inserted - Post 849 - attachment - client03-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/client03-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon22-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon22-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/icon22-free-img.png","id":0}
+Inserted - Post 850 - attachment - icon22-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/icon22-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon25-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon25-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/icon25-free-img.png","id":0}
+Inserted - Post 851 - attachment - icon25-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/icon25-free-img.png
+Source - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon23-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/ac-technician-07/wp-content/uploads/sites/393/2018/12/icon23-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/ac-technician-07\/wp-content\/uploads\/sites\/393\/2018\/12\/icon23-free-img.png","id":0}
+Inserted - Post 852 - attachment - icon23-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/10/icon23-free-img.png
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "854"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "870"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "897"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "931"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "968"
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/home-banner.jpg
+Log - {"id":"642","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/home-banner.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-includes/images/media/default.png
+Log - {"id":"656","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/default.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/profile-picture.jpg
+Log - {"id":"643","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/profile-picture.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon01-free-img.png
+Log - {"id":"644","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon01-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon02-free-img.png
+Log - {"id":"645","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon02-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/icon03-free-img.png
+Log - {"id":"646","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/icon03-free-img.png"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2020/02/work-with-me.jpg
+Log - {"id":"648","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/work-with-me.jpg"}
+Source - https://websitedemos.net/life-coach-sara-john-07/wp-content/uploads/sites/447/2019/05/world-map-dark.png
+Log - {"id":"657","url":"http:\/\/localhost\/ocibme\/wp-content\/uploads\/2020\/09\/world-map-dark.png"}
+Complete 
+---- Processing WordPress Page - for Gutenberg ---- "1025"
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2019/12/cooked-dish.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2019/12/cooked-dish.jpg
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2019\/12\/cooked-dish.jpg","id":0}
+Inserted - Post 1026 - attachment - cooked-dish.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/cooked-dish.jpg
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/divider-free-img-1.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/divider-free-img-1.png
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2018\/10\/divider-free-img-1.png","id":0}
+Inserted - Post 1027 - attachment - divider-free-img-1.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/divider-free-img-1.png
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/about-img-free-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/about-img-free-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2018\/10\/about-img-free-img.jpg","id":0}
+Inserted - Post 1028 - attachment - about-img-free-img.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/about-img-free-img.jpg
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2020/09/wifi.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2020/09/wifi.png
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2020\/09\/wifi.png","id":0}
+Inserted - Post 1029 - attachment - wifi.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/wifi.png
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2019/12/Grill-food-banner.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2019/12/Grill-food-banner.jpg
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2019\/12\/Grill-food-banner.jpg","id":0}
+Inserted - Post 1030 - attachment - Grill-food-banner.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/Grill-food-banner.jpg
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef1-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef1-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2018\/10\/chef1-free-img.png","id":0}
+Inserted - Post 1031 - attachment - chef1-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/chef1-free-img.png
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef3-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef3-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2018\/10\/chef3-free-img.png","id":0}
+Inserted - Post 1032 - attachment - chef3-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/chef3-free-img.png
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef2-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef2-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2018\/10\/chef2-free-img.png","id":0}
+Inserted - Post 1033 - attachment - chef2-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/chef2-free-img.png
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef4-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2018/10/chef4-free-img.png
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2018\/10\/chef4-free-img.png","id":0}
+Inserted - Post 1034 - attachment - chef4-free-img.png
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/chef4-free-img.png
+Source - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2019/12/hotel-diner-dining.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/bbq-restaurant-08/wp-content/uploads/sites/694/2019/12/hotel-diner-dining.jpg
+Log - {"url":"https:\/\/websitedemos.net\/bbq-restaurant-08\/wp-content\/uploads\/sites\/694\/2019\/12\/hotel-diner-dining.jpg","id":0}
+Inserted - Post 1035 - attachment - hotel-diner-dining.jpg
+BATCH - SUCCESS Image {Imported} - http://localhost/ocibme/wp-content/uploads/2020/11/hotel-diner-dining.jpg
+Complete 
