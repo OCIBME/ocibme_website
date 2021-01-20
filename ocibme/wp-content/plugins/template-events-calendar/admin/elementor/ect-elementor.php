@@ -51,7 +51,8 @@ class EctElementor {
 			wp_enqueue_style('ect-common-styles');	
 			wp_enqueue_style('ect-sharebutton');
 			wp_enqueue_style('ect-sharebutton-css');
-			wp_enqueue_style('ect-timeline-styles');			
+			wp_enqueue_style('ect-timeline-styles');
+			wp_enqueue_style('ect-minimal-list-styles');		
 		} );
 	}
 

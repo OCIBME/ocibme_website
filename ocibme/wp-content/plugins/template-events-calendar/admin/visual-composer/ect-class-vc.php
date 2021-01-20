@@ -49,6 +49,7 @@ if (!class_exists('EctVCAddon')) {
                     $templates=  array(
                                 __( "Default",'ect2' ) => "default",
                                 __( "Timeline Layout",'ect2') => "timeline-view",
+                                __(  'Minimal List','ect2') => 'minimal-list',
                                
                             );
                             $styles=  array(

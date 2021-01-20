@@ -1,4 +1,6 @@
 <?php
+$ev_day=tribe_get_start_date($event_id, false, 'd' );
+$ev_month=tribe_get_start_date($event_id, false, 'M' );
 $list_style=$attribute['style'];
 if($template=="modern-list") {
 	$list_style='style-2';
@@ -78,8 +80,6 @@ else if (($style=="style-2" && $template=="default") || $template=="modern-list"
 				</div><!-- right-wrapper close -->
 				</div><!-- event-loop-end -->';
 }
-
-
 /*** Default List Style 1 */
 else{
 	$events_html.='<div id="event-'.esc_attr($event_id).'" class="ect-list-post style-1 '.esc_attr($event_type).'">';

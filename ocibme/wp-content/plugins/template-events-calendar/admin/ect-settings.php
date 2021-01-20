@@ -70,6 +70,13 @@ function ect_Options() {
 		#ect-events-list-content .style-3 .style-3-readmore a:hover {
 			background: value;
 		}
+		.style-1 span.ect-minimal-list-time{
+			color:value;
+		}
+		.style-2.ect-simple-event span.ect-date-viewport,.style-2.ect-simple-event .ect-schedule-wrp {
+			
+			background: lighten( $main_skin_color, 10% ); 
+		}
 		#ect-events-list-content .ect-list-img {
 			background-color: lighten( $main_skin_color, 3% );
 		}		
@@ -84,7 +91,9 @@ function ect_Options() {
 			box-shadow : inset 0px 0px 50px -5px darken( $main_skin_color, 7% );
 		}
 
-
+		#ect-minimal-list-wrp .ect-list-posts.style-3.ect-simple-event{
+			border-left-color: lighten( $main_skin_color, 2% );
+		}
 		#event-timeline-wrapper .ect-timeline-year {
 			background: darken( $main_skin_color, 10% );
 			background: radial-gradient(circle farthest-side, darken( $main_skin_color, 0% ), darken( $main_skin_color, 10% ));
@@ -145,6 +154,13 @@ function ect_Options() {
 		#ect-events-list-content .ect-featured-event.style-3 .style-3-readmore a:hover {
 			background: value;
 		}
+		#ect-minimal-list-wrp .ect-list-posts.style-1.ect-featured-event{
+			border-left: 3px solid value;
+		}
+		.style-1.ect-featured-event .ect-style-1-more a,.style-1.ect-featured-event .ect-event-datetime .ect-icon-clock,
+		.style-1.ect-featured-event .ect-event-datetime span{
+			color:value;
+		}
 		#ect-events-list-content .ect-featured-event h2.ect-list-title,
 		#ect-events-list-content .ect-featured-event h2.ect-list-title a.ect-event-url,
 		#ect-events-list-content .ect-featured-event .ect-list-description .ect-event-content a,
@@ -186,6 +202,10 @@ function ect_Options() {
 			lighten( $featured_event_skin_color, 3% ),
 			);
 		}
+		.style-2.ect-featured-event span.ect-date-viewport,.style-2.ect-featured-event .ect-schedule-wrp {
+			
+			background: lighten( $featured_event_skin_color, 10% ); 
+		}
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.style-1.odd .timeline-meta {
 			background: value;
 			background-image:linear-gradient(
@@ -196,6 +216,9 @@ function ect_Options() {
 		}
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.even .timeline-meta:before {
 			border-left-color: lighten( $featured_event_skin_color, 3% );
+		}
+		#ect-minimal-list-wrp .ect-list-posts.style-3.ect-featured-event{
+			border-left-color: 	darken( $featured_event_skin_color, 8% );
 		}
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.odd .timeline-meta:before {
 			border-right-color: lighten( $featured_event_skin_color, 3% );
@@ -252,11 +275,14 @@ function ect_Options() {
 		#ect-events-list-content .ect-featured-event .ect-list-venue .ect-icon,
 		#ect-events-list-content .ect-featured-event .ect-list-venue .ect-venue-details,
 		#ect-events-list-content .ect-featured-event .ect-list-venue .ect-venue-details .ect-google a,
-		#ect-events-list-content .ect-featured-event.style-3 .style-3-readmore a:hover
+		#ect-events-list-content .ect-featured-event.style-3 .style-3-readmore a:hover,
+		.ect-featured-event .ect-event-date span.ect-date-viewport
 		{
 			color: value;
 		}
-
+	#ect-minimal-list-wrp .ect-list-posts.style-1.ect-featured-event .ect-event-datetimes span{
+		color:value;
+		}
 	
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event .ect-date-area,
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event .ect-venue-details,
@@ -273,7 +299,8 @@ function ect_Options() {
 		}
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event .ect-google a,
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.style-2 h2.content-title a.ect-event-url:hover,
-		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.style-3 h2.content-title a.ect-event-url:hover {
+		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.style-3 h2.content-title a.ect-event-url:hover,
+		.ect-featured-event .ect-event-date span.ect-month {
 			color: darken( $featured_event_font_color, 10% ); 
 		}
 		#event-timeline-wrapper .ect-timeline-post.ect-featured-event.style-3 .timeline-content a.ect-events-read-more {
@@ -372,14 +399,15 @@ function ect_Options() {
 		'font-weight' => 'bold',
 		),
 		'css'=>'
+		#ect-minimal-list-wrp .style-1 .ect-events-title a,
 		#ect-events-list-content h2.ect-list-title,
 		#ect-events-list-content h2.ect-list-title a.ect-event-url,
 		.ect-classic-list a.tribe-events-read-more,
 		.ect-clslist-event-info .ect-clslist-title a.ect-event-url,
-		#ect-no-events p {
+		#ect-no-events p,.style-2 span.ect-event-title a,.style-3 .ect-events-title a {
 			value
 		}
-		#ect-events-list-content .ect-list-description .ect-event-content a {
+		.style-1 .ect-style-1-more a,.style-3 .ect-rate-area,.style-2 .ect-style-2-more a,.style-1 .ect-read-more a,#ect-events-list-content .ect-list-description .ect-event-content a {
 			color: lighten(value-color, 10%);
 		}
 		#ect-events-list-content .style-1 .ect-rate-area {
@@ -460,7 +488,8 @@ function ect_Options() {
 		),
 		'css'=>'
 		#ect-events-list-content .ect-list-venue .ect-venue-details,
-		#ect-events-list-content .ect-list-venue .ect-venue-details a {
+		#ect-events-list-content .ect-list-venue .ect-venue-details a,
+		.style-3 .ect-list-venue.minimal-list-venue,.style-3 span.ect-google a {
 			value
 		}
 		#ect-events-list-content .ect-list-venue .ect-icon {
@@ -512,6 +541,16 @@ function ect_Options() {
 		'line-height' => '1em',
 		),
 		'css'=>'
+		#ect-minimal-list-wrp .ect-event-datetimes span.ev-mo,#ect-minimal-list-wrp .ect-event-datetimes,.style-1.ect-simple-event .ect-style-1-more a,.style-1.ect-simple-event .ect-event-datetime .ect-icon-clock,.style-3 .ect-style-3-more a{
+			color: value-color;
+		}
+		#ect-minimal-list-wrp .ect-list-posts.style-1 .ect-event-datetimes span,.style-1 span.ect-minimal-list-time,.style-3 span.ect-minimal-list-time{
+			font-family: value-font-family;
+			color: value-color;
+			font-weight: value-font-weight;
+    font-style: value-font-style;
+    line-height: value-line-height;
+		}
 		#ect-events-list-content .ect-list-date .ect-date-area {
 			value
 		}
@@ -522,7 +561,7 @@ function ect_Options() {
 		#event-timeline-wrapper .ect-timeline-post .ect-date-area {
 			value
 		}
-		#event-timeline-wrapper .ect-timeline-year .year-placeholder span,
+		.style-2.ect-simple-event span.ect-date-viewport,.style-2.ect-simple-event .ect-schedule-wrp,#ect-minimal-list-wrp .ect-list-posts.style-1 .ect-event-datetimes span,#event-timeline-wrapper .ect-timeline-year .year-placeholder span,
 		#event-timeline-wrapper .timeline-meta .ev-time .ect-icon {
 			font-family: value-font-family;
 			color: value-color;

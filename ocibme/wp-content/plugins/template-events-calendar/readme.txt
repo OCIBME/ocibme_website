@@ -3,7 +3,7 @@ Contributors: narinder-singh,satindersingh,coolplugins
 Donate link: https://paypal.me/CoolPlugins/10USD/
 Tags: the events calendar, calendar, event, events, events calendar, modern tribe, shortcode, schedule, timeline, template, elementor widget
 Requires at least: 4.5
-Tested up to: 5.5
+Tested up to: 5.6
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPLv2 or later
@@ -37,7 +37,7 @@ Best addon for **The Events Calendar** plugin (free version by Modern Tribe) to 
 
 [🔗 Events List](https://eventscalendartemplates.com/list-demo/)
 [🔗 Events Timeline](https://eventscalendartemplates.com/timeline-demo/)
-
+[🔗 Events Minimal List](https://eventscalendartemplates.com/minimal-list-demo/)
 **Premium Version Demos**
 
 [🔗 Events Grid](https://eventscalendartemplates.com/events-grid-demo/)
@@ -48,6 +48,9 @@ Best addon for **The Events Calendar** plugin (free version by Modern Tribe) to 
 [🔗 Events Calendar](https://eventscalendartemplates.com/events-calendar-demo/)
 [🔗 Events by Organizer](https://eventscalendartemplates.com/events-by-organizer/)
 [🔗 Events by Venue](https://eventscalendartemplates.com/events-by-venue/)
+
+> We have created new Events Widgets dedicated addon for Elementor Lovers.
+ Check it:- <a target="_blank" href="https://wordpress.org/plugins/events-widgets-for-elementor-and-the-events-calendar/">The Events Calendar Widgets For Elementor</a>
 
 > Now customize event single page with custom colors and layout by using
 [🔗 Event Single Page Templates Addon For The Events Calendar](https://wordpress.org/plugins/event-page-templates-addon-for-the-events-calendar/).
@@ -196,17 +199,19 @@ But if you want to customize styles and code according to your own requirements 
 == Screenshots ==
 
 1. Events List Template Style 1
-2. Events Timeline Template Style 1
+2. Events Minimal List Styles
 3. Events List Template Style 2
-4. Events Timeline Template Style 2
-5. Events List Template Style 3
-6. Events Timeline Template Style 3
-7. Events Template Settings Panel
-8. The Events Calendar Shortcode Generator
-9. The Events Calendar Gutenberg Block
-10. Elementor Page Builder Widget Preview
+4. Events List Template Style 3
+5. Events Template Settings Panel
+6. The Events Calendar Shortcode Generator
+7. The Events Calendar Gutenberg Block
+8. Elementor Page Builder Widget Preview
 
 == Changelog ==
+= Version 1.7 | JAN 6, 2021 =
+* Added:Integrated Minimal layouts.
+* Added: Added 3 styles in Minimal layouts
+* Tweak: shortcode generator and gutenberg shortcode block
 = Version 1.6.1 | OCT 30, 2020 =
 * Added:Implemented some checks
 * Fixed: conflict with Gravity form

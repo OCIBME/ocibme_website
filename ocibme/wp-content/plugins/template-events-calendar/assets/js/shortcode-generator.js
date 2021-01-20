@@ -71,6 +71,7 @@
                                 values: [
                                     { text: 'Default List Layout', value: 'default' },
                                     { text: 'Timeline Layout', value: 'timeline-view' },
+                                    { text: 'Minimal List', value: 'minimal-list' },
                                 ]
                             },
                             {
@@ -81,6 +82,7 @@
                                     { text: 'Style 1', value: 'style-1' },
                                     { text: 'Style 2', value: 'style-2' },
                                     { text: 'Style 3', value: 'style-3' }
+                                   
                                 ]
                             },
                             {

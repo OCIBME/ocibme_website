@@ -118,6 +118,11 @@ function ect_custom_date_formats($date_format,$template,$event_id,$ev_time){
 }
     //grab event image
     function ect_get_event_image($event_id,$size){
+	
+		$default_img = ECT_PLUGIN_URL."assets/images/event-template-bg.png";
+	
+	
+		// ect_default_img
         $ev_post_img='';
         $feat_img_url = wp_get_attachment_image_src(get_post_thumbnail_id($event_id),$size);
         if(!empty($feat_img_url) && $feat_img_url[0] !=false){
@@ -130,10 +135,10 @@ function ect_custom_date_formats($date_format,$template,$event_id,$ev_time){
                 $imageAttachment = wp_get_attachment_image_src( $non_feat_img_url,$size);
                 $ev_post_img= $imageAttachment[0];
                 }else{
-                    $ev_post_img=ECT_PLUGIN_URL."assets/images/event-template-bg.png";
+                    $ev_post_img=$default_img;
                 }
             }else{
-                $ev_post_img=ECT_PLUGIN_URL."assets/images/event-template-bg.png";
+                $ev_post_img=$default_img;
             }
             return $ev_post_img;
     }

@@ -3,7 +3,7 @@
 Plugin Name:Events Shortcodes and Templates Addon
 Plugin URI:https://eventscalendartemplates.com/
 Description:<a href="http://wordpress.org/plugins/the-events-calendar/">📅 The Events Calendar Addon</a> - Events Shortcodes and Templates Addon provides events list & timeline templates and shortcode generator for The Events Calendar (by Modern Tribe) plugin.
-Version:1.6.1
+Version:1.7
 Requires at least: 4.0
 Tested up to:5.5
 Requires PHP:5.6
@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) {
 	exit();
 }
 if (!defined('ECT_VERSION_CURRENT')) {
-    define('ECT_VERSION_CURRENT', '1.6.1');
+    define('ECT_VERSION_CURRENT', '1.7');
 }
 /*** Defined constent for later use */
 define('ECT_PLUGIN_URL', plugin_dir_url( __FILE__ ));
@@ -135,6 +135,7 @@ if (!class_exists('EventsCalendarTemplates')) {
 			wp_register_style('ect-common-styles', ECT_PLUGIN_URL . 'assets/css/ect-common-styles.min.css',null, null,'all' );	
 			wp_register_style('ect-timeline-styles', ECT_PLUGIN_URL . 'assets/css/ect-timeline.min.css',null, null,'all' );
 			wp_register_style('ect-list-styles', ECT_PLUGIN_URL . 'assets/css/ect-list-view.min.css',null, null,'all' );
+			wp_register_style('ect-minimal-list-styles', ECT_PLUGIN_URL . 'assets/css/ect-minimal-list-view.css',null, null,'all' );
 	
 			// scripts 
 			wp_register_script('ect-sharebutton',ECT_PLUGIN_URL .'assets/js/ect-sharebutton.min.js',array('jquery'),null,true);
@@ -149,6 +150,9 @@ if (!class_exists('EventsCalendarTemplates')) {
 			wp_enqueue_style('ect-common-styles');
 			if(in_array($template,array("timeline","classic-timeline",'timeline-view'))) {
 				wp_enqueue_style('ect-timeline-styles');
+			}
+			elseif($template=="minimal-list"){
+				wp_enqueue_style('ect-minimal-list-styles');
 			}
 			else{
 				wp_enqueue_style('ect-list-styles');
@@ -206,7 +210,6 @@ if (!class_exists('EventsCalendarTemplates')) {
 				'order' => 'ASC',
 				'limit' => '10',
 				'hide-venue' => 'no',
-
 				'event_tax' => '',
 				'month' => '',
 				'tags' => '',
@@ -219,9 +222,6 @@ if (!class_exists('EventsCalendarTemplates')) {
 			/*** Default var for later use */
 			$output='';
 			$events_html='';
-
-			
-
 			$template=isset($attribute['template'])?$attribute['template']:'default';
 			$style=isset($attribute['style'])?$attribute['style']:'style-1';
 			$enable_share_button=isset($attribute['socialshare'])?$attribute['socialshare']:'no';
@@ -342,7 +342,7 @@ if (!class_exists('EventsCalendarTemplates')) {
 				$has_venue_address = (!empty( $venue_details['address'] ) ) ? ' location' : '';				
 				/*** Setup an array of venue details for use later in the template */
 				if($attribute['hide-venue']!="yes") {
-					if($template=="classic-list" || $template=="modern-list" || $template=="default") {
+					if($template=="classic-list" || $template=="modern-list" || $template=="default" || $template=="minimal-list") {
 						$venue_details_html.='<div class="ect-list-venue '.$template.'-venue">';
 					}
 					else {
@@ -401,6 +401,9 @@ if (!class_exists('EventsCalendarTemplates')) {
 				else if(in_array($template,array("default","classic-list",'modern-list'))) {
 					include(ECT_PLUGIN_DIR.'/templates/list-template.php');	
 				}
+				else if($template=="minimal-list"){
+					include(ECT_PLUGIN_DIR.'/templates/minimal-list-template.php');	
+				}
 				else {
 					include(ECT_PLUGIN_DIR.'/templates/list-template.php');	
 				}
@@ -441,6 +444,13 @@ if (!class_exists('EventsCalendarTemplates')) {
 					$output .= '<div class="cool-event-timeline">';
 					$output .=$events_html;
 					$output .= '</div></div>';
+				}
+				else if($template=="minimal-list"){
+					$output .='<!=========Events Static list Template '.ECT_VERSION_CURRENT.'=========>';
+					$output.='<div id="ect-events-minimal-list-content">';
+					$output.='<div id="ect-minimal-list-wrp" class="ect-minimal-list-wrapper '. $catCls.'">';
+					$output.=$events_html;
+					$output.='</div></div>';	
 				}
 				else {	
 					$output .='<!=========Events list Template '.ECT_VERSION_CURRENT.'=========>';

@@ -118,7 +118,8 @@ export default registerBlockType( 'ect/shortcode', {
 		
 		const layoutOptions = [
 			{label: 'Default List Layout', value: 'default'},
-			{label: 'Timeline Layout', value: 'timeline-view'},		
+			{label: 'Timeline Layout', value: 'timeline-view'},
+			{label: 'Minimal List', value: 'minimal-list'},		
 		];
 		const designsOptions = [
 			{label: 'Style 1', value: 'style-1'},

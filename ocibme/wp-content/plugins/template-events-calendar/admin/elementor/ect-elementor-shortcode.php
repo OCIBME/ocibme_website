@@ -133,6 +133,7 @@ class EctElementorWidget extends Widget_Base {
 				'options' => [
 					'default' => __( 'Default List Layout', 'cool-timeline' ),
 					'timeline-view' => __( 'Timeline Layout', 'cool-timeline' ),
+					'minimal-list'=>__('Minimal List','cool-timeline' ),
 				
 				]
 				
